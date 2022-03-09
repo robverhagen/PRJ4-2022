@@ -3,12 +3,28 @@
 /* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
+
+
+
+.mybutton:hover {background-color: #3e8e41}
+
+
 /* Styles for the body */
+
+
+
+
 
 body {
 	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: #202030;
 	background-color: #f8f8fc;
+}
+
+.mytxtp {
+	color: #B213CF;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
@@ -50,7 +66,7 @@ body {
 	flex-basis: 1.4em;
 }
 .language-progress {
-	background-color: #DBD256;
+	background-color: #E0F501;
 }
 
 .roblanguage-progress {
@@ -80,9 +96,14 @@ body {
 
 .h2contact {
 	
-	color: aqua;
+	color: #24B5B5;
 }
 
+.pipi {
+	
+	background-color: #EF6FD0;
+	
+}
 
 
 
