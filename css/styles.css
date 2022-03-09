@@ -49,3 +49,55 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+.language-progress {
+	background-color: #DBD256;
+}
+
+.roblanguage-progress {
+		background-color: #99DB56;
+}
+
+
+.language-item {
+	background-color: #FF00C0;
+}
+.language-level {
+	background-color: #00FF17;
+}
+
+.bg-warning {
+	background-color: #A900FF;
+}
+.border-info{
+	background-color: aqua;
+}
+.border {
+	background-color: #FF00C0;
+}
+.border-2 {
+	background-color: #E1DC98;
+}
+
+.h2contact {
+	
+	color: aqua;
+}
+
+
+
+
+/* zaza
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
