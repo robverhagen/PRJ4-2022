@@ -1,10 +1,8 @@
 /* Use this file to use your own styles*/
-
 /* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
-
-
-
+@import url('https://fonts.googleapis.com/css2?family=Cardo&family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Smokum&display=swap');
 
 .mybutton:hover {background-color: #3e8e41}
 
@@ -30,7 +28,7 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #e0f0ff;
+    background-color: #4488C8;
 }
 
 .resume-main {
@@ -66,8 +64,13 @@ body {
 	flex-basis: 1.4em;
 }
 .language-progress {
-	background-color: #E0F501;
+	background-color: #009DF5;
+	
+	
+	
 }
+
+
 
 .roblanguage-progress {
 		background-color: #99DB56;
@@ -85,13 +88,16 @@ body {
 	background-color: #A900FF;
 }
 .border-info{
-	background-color: aqua;
+	background-color: #CC2640;
+
 }
 .border {
-	background-color: #FF00C0;
+    background-color: #FF00C0;
+
 }
 .border-2 {
 	background-color: #E1DC98;
+
 }
 
 .h2contact {
@@ -99,11 +105,52 @@ body {
 	color: #24B5B5;
 }
 
-.pipi {
-	
-	background-color: #EF6FD0;
+
+
+
+
+.mynameRob {
+	font-family: 'Cardo', serif;
 	
 }
+
+.zaza {
+	
+	font-family: 'Cardo', serif;
+
+}
+
+.toto {
+	
+	font-family: 'Lobster', cursive;
+	
+}
+
+.language-item {
+    border: 0px;
+}
+
+.language-list{
+    border: 0px;
+}
+a:hover {
+  color: #FF007F;
+}
+
+.sasa {
+	
+	font-family: 'Smokum', cursive;
+	
+}
+.border-colorrob {
+    border-color: #F3AD39!important;
+}
+
+
+
+
+
+
 
 
 
